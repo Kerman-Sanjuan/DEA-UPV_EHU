@@ -14,7 +14,6 @@ public class PruebaOrderedDoubleLinkedList {
 			l.add(20);
 			l.remove(new Integer(7));
 
-			
 			System.out.print(" Lista ...............");
 			l.visualizarNodos();
 			System.out.println(" Elementu-kopurua: " + l.size());

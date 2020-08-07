@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ikasleak">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ikasleak.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
