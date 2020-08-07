@@ -1,5 +1,7 @@
 package listasSimples;
 
+import java.util.prefs.NodeChangeEvent;
+
 public class OrderedDoubleLinkedList<T> extends DoubleLinkedList<T> implements OrderedListADT<T> {
 	
 	public void add(T elem){
@@ -17,7 +19,8 @@ public class OrderedDoubleLinkedList<T> extends DoubleLinkedList<T> implements O
 	}
 
 	public void visualizarNodos() {
-		Node 
+
+
 	}
 
 }
