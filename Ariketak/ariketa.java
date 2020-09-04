@@ -4,4 +4,8 @@ public class ariketa{
 
     }
 
+    public void nada(){
+        //este metodo no hace nada
+    }
+
 }
